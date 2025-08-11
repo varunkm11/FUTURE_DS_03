@@ -1,69 +1,52 @@
-# FUTURE_DS_03
-# 📊 Task 3 – College Event Feedback Analysis (Future Interns)
+# 📊 FUTURE_DS_03 – College Event Feedback Analysis (Future Interns)
 
-## 📌 Task Objective
-Analyze student event feedback to uncover satisfaction trends and suggest improvements using survey data.  
-This project leverages **sentiment analysis**, **data visualization**, and **exploratory data analysis** to provide actionable insights for improving future college events.
-
----
-
-## 🛠 Tools & Technologies
-- **Python** (pandas, matplotlib, seaborn, wordcloud)
-- **NLP** (TextBlob/VADER Sentiment Analysis)
-- **Google Colab / Jupyter Notebook**
-- **Matplotlib & Seaborn** (Visualizations)
+## 🎯 Objective
+Analyze student feedback from college events to understand satisfaction levels and suggest improvements.  
+We used **sentiment analysis**, **data visualization**, and **EDA** to find trends and give actionable recommendations for future events.
 
 ---
 
-## 📂 Project Deliverables
-- Sentiment analysis of student feedback
-- Visual representation of event ratings & satisfaction index
-- Word cloud showcasing the most liked aspects of events
-- Recommendations based on trends & sentiment data
+## 🛠 Tools & Technologies Used
+- **Python** – pandas, matplotlib, seaborn, wordcloud  
+- **NLP** – Sentiment Analysis (TextBlob/VADER)  
+- **Google Colab / Jupyter Notebook** – for coding and analysis  
+- **Matplotlib & Seaborn** – charts and graphs
 
 ---
 
-## 📈 Key Visual Insights
-
-### 1️⃣ Density Plot of Scores for Strengths & Weaknesses
-![Density Plot](Density_Plot.png)
-
-### 2️⃣ Event Rating Distribution
-![Event Rating](Event_Rating_Distribution.png)
-
-### 3️⃣ Sentiment Polarity for Suggestions
-![Suggestions Sentiment](Sentiment_Polarity_Suggestions.png)
-
-### 4️⃣ Sentiment Polarity for Likes
-![Likes Sentiment](Sentiment_Polarity_Likes.png)
-
-### 5️⃣ Word Cloud – What Students Liked Most
-![Word Cloud](Word_Cloud_Likes.png)
-
-### 6️⃣ Sentiment Distribution of Student Feedback
-![Sentiment Pie](Sentiment_Distribution.png)
-
-### 7️⃣ Overall Satisfaction Index Distribution
-![Satisfaction Index](Overall_Satisfaction_Index_Distribution.png)
-
-### 8️⃣ Event Rating by Event Type
-![Event Type Rating](Event_Rating_By_Type.png)
-
-### 9️⃣ Average Feedback Scores per Question
-![Average Scores](Average_Feedback_Scores.png)
+## 📂 Deliverables
+- Sentiment analysis of student comments  
+- Visualizations of event ratings and satisfaction levels  
+- Word cloud of things students liked most  
+- Recommendations for future events
 
 ---
 
-## 🧠 Key Findings
-- **Positive feedback** dominated with **30% positive** and **70% neutral** sentiment.
-- Students **liked** the *culture, learning, stability, and coordination* aspects most.
-- **Highest event ratings** were for **Hackathon** and **Cultural Fest**.
-- Suggestions primarily focused on **time management** and **event scheduling**.
+## 📈 Main Visuals
+1. **Density Plot** – Score patterns for strengths and weaknesses  
+2. **Event Rating Chart** – Rating distribution  
+3. **Suggestions Sentiment** – Positive/negative suggestions  
+4. **Likes Sentiment** – Sentiment of liked aspects  
+5. **Word Cloud** – Commonly liked points  
+6. **Sentiment Pie Chart** – Positive, negative, neutral feedback share  
+7. **Satisfaction Index** – Distribution of satisfaction scores  
+8. **Event Type Ratings** – Ratings by event category  
+9. **Average Feedback Scores** – Scores per question  
 
 ---
 
-## 📌 Skills Gained
-- Data Cleaning & Preprocessing
-- Sentiment Analysis (TextBlob/VADER)
-- Data Visualization with Seaborn & Matplotlib
-- Business Storytelling with Data
+## 🧠 Key Insights
+- **30% positive** and **70% neutral** feedback  
+- Most liked aspects: *culture, learning, coordination, stability*  
+- **Hackathons** and **Cultural Fests** got the highest ratings  
+- Common suggestions: better **time management** and **event scheduling**
+
+---
+
+## 📌 Skills Learned
+- Data cleaning & preprocessing  
+- Sentiment analysis with TextBlob/VADER  
+- Visualization with Seaborn & Matplotlib  
+- Presenting findings using storytelling
+
+---
